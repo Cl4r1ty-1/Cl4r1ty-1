@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cl4r1ty-1 
 - Cl4r1ty was taken :(
 - 👀 I’m interested in cyber security, linux and game dev
-- 🌱 I’m currently learning C++, doing CTFs and studying for CompTIA A+
+- 🌱 I’m currently learning C++, doing CTFs and other cool stuff
 - Semi-experienced in Python
 
 <!---
