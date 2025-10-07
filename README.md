@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning a lot, doing CTFs and other cool stuff
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cl4r1ty-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cl4r1ty-1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Cl4r1ty-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Cl4r1ty-1&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cl4r1ty-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
