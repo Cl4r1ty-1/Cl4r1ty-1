@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Cl4r1ty-1 
-- Cl4r1ty was taken :(
-- 👀 I’m interested in cyber security, linux and programming
-- 🌱 I’m currently learning *a lot*, doing CTFs and other cool stuff
-- Experienced in Python
+# 💫 About Me:
+-👋 Hi, I’m @Cl4r1ty-1
+-Cl4r1ty was taken :(
+-👀 I’m interested in cyber security, linux and programming
+-🌱 I’m currently learning a lot, doing CTFs and other cool stuff
 
-<!---
-Cl4r1ty-1/Cl4r1ty-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cl4r1ty-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Cl4r1ty-1&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cl4r1ty-1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Cl4r1ty-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cl4r1ty-1&icon=0&color=0)](https://visitcount.itsvg.in)
